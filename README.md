@@ -1,1 +1,0 @@
-# TDT4102-prosjekt
