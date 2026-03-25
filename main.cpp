@@ -12,6 +12,8 @@
 int main() {
     // Show a nice message in the Terminal window
     cout << "Hello, World!" << endl;
+    int x = 1;
+    cout << x;
 
     // This lets the operating system (Windows, Mac, Linux, etc.) know that the program
     // did not encounter any errors
